@@ -1,0 +1,15 @@
+CVS (Control de versiones)> Crear repositorio Git "Crea un repositorio local"
+
+File > settings  > version control > girhub "Para enlazar github account"
+
+Git > GITHUB > Shareproject"compartir con github"
+
+Si creamos un archivo llamado ".gitignore" podremos decir que carpetas queremos que nuestro repositorio lo ignore poniendo el nombre del mismo en su interior.
+
+Para hacer el commit, vamos al projecto, click izq. Git, commitrepository. Esto hace la actualizacion al repositorio local que ya hicimos
+
+Para subir la actualizacion del local a github, escogemos git>push
+
+En la parte inferior de la pantalla, en git>Local>master click izquierdo y podemos crear brach "crear una version alternativa".
+
+para reunificar las ramas seleccionamos la rama y damos "mergo to"

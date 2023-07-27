@@ -13,3 +13,7 @@ Para subir la actualizacion del local a github, escogemos git>push
 En la parte inferior de la pantalla, en git>Local>master click izquierdo y podemos crear brach "crear una version alternativa".
 
 para reunificar las ramas seleccionamos la rama y damos "mergo to"
+
+Siempre antes de iniciar abrimos la terminal y corremos los siquienntes comandos
+    ( git config -- global user.name "NombreUsuarioGitHub" )
+    ( git config -- global user.email "emailUsuarioGitHub" )

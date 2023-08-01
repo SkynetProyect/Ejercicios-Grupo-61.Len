@@ -24,3 +24,7 @@ para reunificar las ramas seleccionamos la rama y damos "mergo to"
 
 Clase #2. Buenas practicas.
 
+    PEP. (Python Enhanced Protocol)
+         Pep 8. Guia de estilo de python.
+         Pep 20. Filosofia detras de python.
+

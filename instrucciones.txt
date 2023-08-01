@@ -28,3 +28,4 @@ Clase #2. Buenas practicas.
          Pep 8. Guia de estilo de python.
          Pep 20. Filosofia detras de python.
 
+    1. Especificar version de python y codificacion

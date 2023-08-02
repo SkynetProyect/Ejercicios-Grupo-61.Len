@@ -1,4 +1,4 @@
-Repositorio By Lenin. Please do not fck touch it, create your own one.
+Repositorio By Lenin. Please do not touch it, create your own one.
 
 CVS (Control de versiones)> Crear repositorio Git "Crea un repositorio local"
 
